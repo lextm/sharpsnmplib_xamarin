@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+VisualStudioVersion = 14.0.22310.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpSnmpLib.iOS.Sample", "SharpSnmpLib.iOS.Sample\SharpSnmpLib.iOS.Sample.csproj", "{9390E68D-B31D-418A-8D64-AA3057881041}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9390E68D-B31D-418A-8D64-AA3057881041}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{9390E68D-B31D-418A-8D64-AA3057881041}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{9390E68D-B31D-418A-8D64-AA3057881041}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{9390E68D-B31D-418A-8D64-AA3057881041}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

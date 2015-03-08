@@ -1,0 +1,25 @@
+%YAML 1.2
+---
+name: "#SNMP Library"
+id: sharpsnmplib
+publisher: Lex Li
+license: License.md
+icons: 
+  - sharpsnmplib_128x128.png
+  - sharpsnmplib_512x512.png
+publisher-url: https://sharpsnmplib.codeplex.com
+libraries: 
+  ios: 
+  - ../lib/SharpSnmpLib.Portable.dll
+  - ../lib/iOS/SharpSnmpLib.iOS.dll
+  android: 
+  - ../lib/SharpSnmpLib.Portable.dll
+  - ../lib/Android/SharpSnmpLib.Android.dll
+summary: Solid, easy-to-use, and open source SNMP library for iOS and Android.
+details: Details.md
+getting-started: GettingStarted.md
+version: 8.5.2
+samples: 
+  iOS Sample: ../samples/iOS/SharpSnmpLib.iOS.Sample.sln
+  Android Sample: ../samples/Android/SharpSnmpLib.Android.Sample.sln
+...
