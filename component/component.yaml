@@ -9,7 +9,7 @@ icons:
   - sharpsnmplib_512x512.png
 publisher-url: https://sharpsnmplib.codeplex.com
 libraries: 
-  ios: 
+  ios-unified: 
   - ../lib/SharpSnmpLib.Portable.dll
   - ../lib/iOS/SharpSnmpLib.iOS.dll
   android: 

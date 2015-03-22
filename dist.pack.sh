@@ -1,0 +1,1 @@
+mono xamarin-component.exe package component
