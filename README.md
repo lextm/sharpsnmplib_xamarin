@@ -9,3 +9,5 @@ They use latest bits, so the following environment is required to run them,
 
 * Latest Visual Studio for Mac
 * Latest macOS High Sierra and Xcode 9.4
+
+This repo is obsolete and replaced by https://github.com/lextudio/sharpsnmplib-maui
